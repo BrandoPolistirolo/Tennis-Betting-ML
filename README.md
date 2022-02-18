@@ -1,5 +1,5 @@
 # Tennis-Betting-ML
-Machine Learning model(specifically log-regression with stochastic gradient descent) for tennis matches prediction. 
+Machine Learning model(specifically log-regression with stochastic gradient descent) for tennis matches prediction. Achieves a 66% accuracy rate on approximately 125000 matches (only singles)
 # Abstract
 In this project we built a machine learning algorithm for tennis match predictions. We used a logistic model with Stochastic Gradient Descent. 
 # Summary
