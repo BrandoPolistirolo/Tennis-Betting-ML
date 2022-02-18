@@ -1,5 +1,6 @@
 # Tennis-Betting-ML
 Machine Learning model(specifically log-regression with stochastic gradient descent) for tennis matches prediction. Achieves a 66% accuracy rate on approximately 125000 matches (only singles). Data Used : https://www.kaggle.com/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting?select=all_matches.csv
+### The code is intended to be run on jupyter or other python notebooks
 # Abstract
 In this project we built a machine learning algorithm for tennis match predictions. We used a logistic model with Stochastic Gradient Descent. 
 # Summary
